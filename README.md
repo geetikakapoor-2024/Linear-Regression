@@ -8,7 +8,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-## Technologies Used
+### Technologies Used
 - numpy - version 1.20.3
 - pandas - version 1.3.4
 - matplotlib - version 3.4.3
